@@ -1,0 +1,19 @@
+E:\MVC Class\evolent\ajay\evolent.api\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.dll
+E:\MVC Class\evolent\ajay\evolent.api\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.pdb
+E:\MVC Class\evolent\ajay\evolent.api\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.csprojResolveAssemblyReference.cache
+E:\MVC Class\evolent\ajay\evolent.api\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.dll
+E:\MVC Class\evolent\ajay\evolent.api\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.pdb
+E:\MVC Class\evolent\ajay\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.dll
+E:\MVC Class\evolent\ajay\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.pdb
+E:\MVC Class\evolent\ajay\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.csprojResolveAssemblyReference.cache
+E:\MVC Class\evolent\ajay\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.dll
+E:\MVC Class\evolent\ajay\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.pdb
+E:\MVC Class\evolent\ajay\final\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.dll
+E:\MVC Class\evolent\ajay\final\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.pdb
+E:\MVC Class\evolent\ajay\final\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.dll
+E:\MVC Class\evolent\ajay\final\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.pdb
+C:\Users\yoges\Downloads\evolent-assignment-master\evolent-assignment-master\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.dll
+C:\Users\yoges\Downloads\evolent-assignment-master\evolent-assignment-master\evolent.api\evolent.Entities\bin\Debug\evolent.Entities.pdb
+C:\Users\yoges\Downloads\evolent-assignment-master\evolent-assignment-master\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.csprojResolveAssemblyReference.cache
+C:\Users\yoges\Downloads\evolent-assignment-master\evolent-assignment-master\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.dll
+C:\Users\yoges\Downloads\evolent-assignment-master\evolent-assignment-master\evolent.api\evolent.Entities\obj\Debug\evolent.Entities.pdb
